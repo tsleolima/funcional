@@ -1,0 +1,1 @@
+meupow = \x y -> x^y
